@@ -1,4 +1,4 @@
-# PublicRepo 🚀  
+# PublicRepo 
 A collection of small Python projects I’m building and sharing for feedback while learning.  
 
 ## Projects  
