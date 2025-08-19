@@ -11,7 +11,7 @@ This is a simple **Tic Tac Toe game** I built while learning Python with *Automa
 ## How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/e1mir1/PublicRepo.git
+   git clone https://github.com/e1mir1/PublicRepo/tree/main/Tic-Tac-Toe
    cd PublicRepo```
 
 2. Install pyinputplus:
