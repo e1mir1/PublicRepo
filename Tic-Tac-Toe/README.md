@@ -1,4 +1,4 @@
-# Tic Tac Toe 🎮  
+# Tic Tac Toe   
 
 This is a simple **Tic Tac Toe game** I built while learning Python with *Automate the Boring Stuff*.  
 
