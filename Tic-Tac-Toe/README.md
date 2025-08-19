@@ -12,7 +12,7 @@ This is a simple **Tic Tac Toe game** I built while learning Python with *Automa
 1. Clone this repo:
    ```bash
    git clone https://github.com/e1mir1/PublicRepo/tree/main/Tic-Tac-Toe
-   cd PublicRepo
+   cd PublicRepo/tree/main/Tic-Tac-Toe
 
 2. Install pyinputplus:
    ```bash
