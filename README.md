@@ -5,7 +5,7 @@ This is a simple **Tic Tac Toe game** I built while learning Python with *Automa
 ## Features
 - Play against a basic NPC (it can block and try to win)  
 - Input validation with `pyinputplus`  
-- Win/tie detection on a 3x3 board  
+- Win/tie detection on a 3x3 board (game support other sizes of the board) 
 - Randomized turn order  
 
 ## How to Run

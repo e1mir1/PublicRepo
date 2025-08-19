@@ -13,7 +13,7 @@ import pyinputplus as pyip
 #### build theBoard in different sizes depending on board_width
 def build_board():
    global theBoard, board_width, mapOfCoords
-   board_width = 3
+   board_width = 3   # support other board sizes as well
    theBoard = {}
 
    span = board_width * board_width
