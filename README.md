@@ -6,6 +6,6 @@ A collection of small Python projects I’m building and sharing for feedback wh
 ### 🎮 Tic Tac Toe  
 - Play against a simple NPC (it can block and try to win).  
 - Input validation with `pyinputplus`.  
-- [➡️ See project details](./tic-tac-toe/README.md)  
+- [➡️ See project details](./Tic-Tac-Toe/README.md)  
 
 (more projects coming soon...)
